@@ -171,6 +171,7 @@ The file for the Docker setup is already included in the file under the name ```
 These results show the information taken from the ISS positional and sighting data and offers a more understandable and readable format than simply reading it straight from the XML file.
 <h2> Citations </h2>
 Goodwin, S. (n.d.). ISS_COORDS_2022-02-13. NASA. https://nasa-public-data.s3.amazonaws.com/iss-coords/2022-02-13/ISS_OEM/ISS.OEM_J2K_EPH.xml Retrieved March 27, 2022, from https://data.nasa.gov/Space-Science/ISS_COORDS_2022-02-13/r6u8-bhhq
+
 Goodwin, S. (n.d.). XMLsightingData_citiesINT01. NASA. https://nasa-public-data.s3.amazonaws.com/iss-coords/2022-02-13/ISS_sightings/XMLsightingData_citiesINT01.xml Retrieved March 27, 2022, from https://data.nasa.gov/Space-Science/ISS_COORDS_2022-02-13/r6u8-bhhq
 
   
